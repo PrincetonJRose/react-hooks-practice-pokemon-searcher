@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Princeton",
+      "hp": "1999999",
+      "sprites": {
+        "front": "goobly goop",
+        "back": "more goobly goop"
+      },
+      "id": 151
+    },
+    {
+      "name": "Bulby",
+      "hp": "30",
+      "sprites": {
+        "front": "something",
+        "back": "something else"
+      },
+      "id": 152
     }
   ]
 }
